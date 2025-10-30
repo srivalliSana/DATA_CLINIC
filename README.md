@@ -251,9 +251,10 @@ This project is licensed under the MIT License.
 
 ## 🆘 Support
 
-For support, email support@dataclinic.com or create an issue in the repository.
+For support, email dataclinicc@gmail.com or create an issue in the repository.
 
 ---
 
 **Data Clinic** - Making data analytics accessible to everyone through AI-powered insights.
+
 
